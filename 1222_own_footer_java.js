@@ -1,5 +1,5 @@
 // HOME DASH
-if (window.location.href == 'https://www.mcardles.ie/'){
+if (window.location.href == 'https://www.mcardleoffice.ie/'){
     var Custom_Cust_Name = EvoXLayer().user.name;
     var Custom_Cust_ID = EvoXLayer().user.user_id;
     var Custom_Acc_Details_link = "/customer/user/" + Custom_Cust_ID + "/edit";
@@ -41,7 +41,7 @@ if (window.location.href == 'https://www.mcardles.ie/'){
 //}
 
 
-if (window.location.href == 'https://www.mcardles.ie/'){
+if (window.location.href == 'https://www.mcardleoffice.ie/'){
 // SALE POPUP
 // Time variables
 var c_startDateTime = new Date("07-13-2020 00:00:01");
